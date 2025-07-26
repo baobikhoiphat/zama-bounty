@@ -1,4 +1,4 @@
-# Test case for FHE encryption
+# Test case for FHE encryption version1
 from tfhe import *
 
 def test_encryption():
