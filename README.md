@@ -1,1 +1,2 @@
 # zama-bounty
+# edit typo
